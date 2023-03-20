@@ -1,7 +1,7 @@
 # sistemaDeCompras
 Os ajustes que fiz no projeto em maioria foram em regras de negocio, para facilitar o entendimento tomei a liberdade de seprar em ordem de alteração(commits)
 
-1. Uma mensagem de Boas Vindas com o usuario logado é exibida para até quem está fazendo testes não ficar tão perdido. 
+1. Uma mensagem de Boas Vindas com o usuario logado é exibida.. 
 2. Fechei o scanner que estava em aberto. 
 3. case default adicionado no switch, caso a escolha seja uma alternativa diferente das possibilidades, evitando um travamento. 
 
