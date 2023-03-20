@@ -1,5 +1,5 @@
 # sistemaDeCompras
-Os ajustes que fiz no projeto em maioria foram em regras de negocio, para facilitar o entendimento tomei a liberdade de seprar em ordem de alteração(commits)
+Como não existe um banco de dados os ajustes que fiz no projeto em maioria foram em regras de negocio, para facilitar o entendimento tomei a liberdade de seprar em ordem de alteração(commits), mas alteraria as estruturas das classes como por exemplo trocaria o id por um Long pensando na possibilidade do banco crescer pois o long pode armazenar dados maiores, inclui na classe de vendas um new Date() e importaria o lombok para não precisar criar getter and setter na mão.
 
 1. Uma mensagem de Boas Vindas com o usuario logado é exibida.. 
 2. Fechei o scanner que estava em aberto. 
